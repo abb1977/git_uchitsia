@@ -1,4 +1,4 @@
-<?php
+<?php 
 	header("Content-Type: text/html; charset=utf-8");
 	$koren = $_SERVER["DOCUMENT_ROOT"]; //дополнение к ссылке
 	include "$koren/admin/library/admin_library_db.php";
